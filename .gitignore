@@ -1,0 +1,14 @@
+# Node & Electron dependencies
+node_modules/
+dist/
+dist-electron/
+out/
+.env
+
+# .NET & C# build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
